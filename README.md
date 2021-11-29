@@ -1,27 +1,8 @@
-<h1 align="center"> GlassFolio ✨ | Dev Portfolio
-<br>
-<a href="https://github.com/AmreshSinha/glassfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AmreshSinha/glassfolio?color=blue"/></a> <a href="https://github.com/AmreshSinha/glassfolio/stargazers"><img src="https://img.shields.io/github/stars/AmreshSinha/glassfolio"></a>
-
-</h1>
-
 
 <h2 align="center">
 Made with Pure HTML, CSS and JS<br>
 Inspired by <a href="https://github.com/saadpasta/developerFolio/">developerFolio</a>
 </h2>
-
-<div style="display:flex; gap:5px;">
-    <div style="display: inline-block;">
-        <img width="50%" src="assets/website-screen1.png"/><img width="50%" src="assets/website-screen3.png"/>
-    </div>
-</div>
-<div style="display:flex; gap:5px;">
-    <div style="display: inline-block;">
-        <img width="50%" src="assets/website-screen2.png"/><img width="50%" src="assets/website-screen4.png"/>
-    </div>
-</div>
-
-<p align="center"><strike>Currently Not Mobile Responsive!</strike> Now it is :)</p>
 
 <p align="center">Change the content in <code>index.html</code> and you are good to go :)</p>
 
@@ -34,8 +15,6 @@ Inspired by <a href="https://github.com/saadpasta/developerFolio/">developerFoli
 ✔️ Work Experience\
 ✔️ Open Source Projects Connected with Github\
 😃 Feel Free to contribute ;)
-
-Live Version: https://AmreshSinha.github.io/glassFolio/
 
 ## Linking your github repo
 This project utilises the modified version of <a href="https://github.com/Tarptaeya/repo-card">Repo-Card</a> which utilises Github Free API to fetch details.

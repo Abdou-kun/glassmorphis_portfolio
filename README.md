@@ -6,8 +6,8 @@ Inspired by <a href="https://github.com/saadpasta/developerFolio/">developerFoli
 
 <p align="center">Change the content in <code>index.html</code> and you are good to go :)</p>
 
-<p align="center">If you want to contribute head over to <a href="https://github.com/AmreshSinha/glassfolio/issues">Issues</a> first ;)</p>
-<p align="center">Feel free to open a <a href="https://github.com/AmreshSinha/glassfolio/issues">Pull Request</a> if you added something new to it!</p>
+<p align="center">If you want to contribute head over to Issues first ;)</p>
+<p align="center">Feel free to open Pull Request if you added something new to it!</p>
 
 ## Sections
 ✔️ Summary and About me\
